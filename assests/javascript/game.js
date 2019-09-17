@@ -35,7 +35,7 @@ for(var i = 0; i < 4; i++) {
         "background-size":"cover"
     })
 
-    crystal.html(random);
+    // crystal.html(random);
     $(".crystals").append(crystal);
 
 }
