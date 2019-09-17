@@ -21,6 +21,8 @@
 }
 
 .crystal{
+    border:1px solid green;
     height: 125px;
+    width: 200px
     
 }
