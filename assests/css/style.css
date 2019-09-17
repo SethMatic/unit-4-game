@@ -1,0 +1,26 @@
+
+
+.instruction{
+    max-width: 80%;
+    margin:20px auto;
+    border-radius: 10px;
+    padding:10px;
+    background:blue;
+    color:white;
+
+}
+
+.stones{
+    height: 125px;
+    
+
+}
+
+.crystals{ display: flex;
+
+}
+
+.crystal{
+    height: 125px;
+    
+}
